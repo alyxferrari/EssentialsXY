@@ -3,10 +3,10 @@
   <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="EssentialsXY"/>
   <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="net.minecraftforge.userdev.LaunchTesting"/>
   <stringAttribute key="org.eclipse.jdt.launching.VM_ARGUMENTS" value="-Dforge.logging.console.level=debug -Dforge.logging.markers=SCAN,REGISTRIES,REGISTRYDUMP"/>
-  <stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="--mod examplemod --all --output D:\Libraries\Documents\GitHub\EssentialsXY\src\generated\resources"/>
-  <stringAttribute key="org.eclipse.jdt.launching.WORKING_DIRECTORY" value="D:\Libraries\Documents\GitHub\EssentialsXY\run"/>
+  <stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="--mod examplemod --all --output /Users/alyxferrari/Documents/GitHub/EssentialsXY/src/generated/resources"/>
+  <stringAttribute key="org.eclipse.jdt.launching.WORKING_DIRECTORY" value="/Users/alyxferrari/Documents/GitHub/EssentialsXY/run"/>
   <mapAttribute key="org.eclipse.debug.core.environmentVariables">
-    <mapEntry key="MOD_CLASSES" value="examplemod%%D:\Libraries\Documents\GitHub\EssentialsXY\bin\main;examplemod%%D:\Libraries\Documents\GitHub\EssentialsXY\bin\main"/>
+    <mapEntry key="MOD_CLASSES" value="examplemod%%/Users/alyxferrari/Documents/GitHub/EssentialsXY/bin/main:examplemod%%/Users/alyxferrari/Documents/GitHub/EssentialsXY/bin/main"/>
     <mapEntry key="MCP_MAPPINGS" value="snapshot_20200514-1.16"/>
     <mapEntry key="MCP_VERSION" value="20200911.084530"/>
     <mapEntry key="FORGE_VERSION" value="34.0.7"/>

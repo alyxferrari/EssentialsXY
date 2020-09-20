@@ -1,5 +1,5 @@
-Args: "--inJar", "C:\Users\Alyx Ferrari\.gradle\caches\forge_gradle\minecraft_user_repo\net\minecraftforge\forge\1.16.3-34.0.7\forge-1.16.3-34.0.7-injected.jar", "--outJar", "C:\Users\Alyx Ferrari\.gradle\caches\forge_gradle\minecraft_user_repo\net\minecraftforge\forge\1.16.3-34.0.7_mapped_snapshot_20200514-1.16\forge-1.16.3-34.0.7_mapped_snapshot_20200514-1.16.jar", "--logFile", "accesstransform.log", "--atFile", "D:\Libraries\Documents\GitHub\EssentialsXY\build\_atJar_5\parent_at.cfg"
-Classpath: C:\Users\Alyx Ferrari\.gradle\caches\forge_gradle\maven_downloader\net\minecraftforge\accesstransformers\1.0.5\accesstransformers-1.0.5-fatjar.jar
-WorkDir: D:\Libraries\Documents\GitHub\EssentialsXY\build\_atJar_5
+Args: "--inJar", "/Users/alyxferrari/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.16.3-34.0.7/forge-1.16.3-34.0.7-injected.jar", "--outJar", "/Users/alyxferrari/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.16.3-34.0.7_mapped_snapshot_20200514-1.16/forge-1.16.3-34.0.7_mapped_snapshot_20200514-1.16.jar", "--logFile", "accesstransform.log", "--atFile", "/Users/alyxferrari/Documents/GitHub/EssentialsXY/build/_atJar_5/parent_at.cfg"
+Classpath: /Users/alyxferrari/.gradle/caches/forge_gradle/maven_downloader/net/minecraftforge/accesstransformers/1.0.5/accesstransformers-1.0.5-fatjar.jar
+WorkDir: /Users/alyxferrari/Documents/GitHub/EssentialsXY/build/_atJar_5
 Main: net.minecraftforge.accesstransformer.TransformerProcessor
 ====================================

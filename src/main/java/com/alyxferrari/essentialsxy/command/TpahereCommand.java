@@ -11,7 +11,7 @@ import net.minecraft.entity.player.ServerPlayerEntity;
 import net.minecraft.util.text.StringTextComponent;
 public class TpahereCommand {
 	private TpahereCommand() {}
-	public static final LiteralArgumentBuilder<CommandSource> builder = Commands.literal("tpahere").then(Commands.argument("target", EntityArgument.player())).executes(context -> execute(context.getSource(), EntityArgument.getPlayer(context, "target")));
+	public static final LiteralArgumentBuilder<CommandSource> builder = Commands.literal("tpahere").then(Commands.argument("target", EntityArgument.player()).executes(context -> execute(context.getSource(), EntityArgument.getPlayer(context, "target"))));
 	public static int execute(CommandSource source, ServerPlayerEntity player) throws CommandSyntaxException {
 		ServerPlayerEntity sourcePlayer = source.asPlayer();
 		if (sourcePlayer.getEntityId() == player.getEntityId()) {
